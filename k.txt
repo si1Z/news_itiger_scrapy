@@ -1,0 +1,22 @@
+id : "9646624"
+share : "https://www.laohu8.com/news/share?id=9646624"
+endTime : "1970-01-01 08:00"
+thumbnail : ""
+type : 0
+symbol : "AAPL"
+pubTimestamp : 1516263460
+market : "us"
+source : "tencent"
+media : "腾讯科技"
+is_english : "0"
+startTime : "1970-01-01 08:00"
+symbol_name : "苹果"
+url : "http://stock-news.tigerbrokers.com/news/detail?id=9646624"
+pubTime : "2018-01-18 16:17"
+summary : "【腾讯科技编者按】外媒报道称，国际一非营利性组织经过3个月的卧底调查，和对大约50名员工进行走访后称，苹果代工企业“可成科技”宿迁制造工厂在职业健康和安全、污染和工作时间上存有“重大问题”。以下组图就来自该组织。该工厂为苹果和其他厂商代工制造包括iPhone、 MacBook等产品的外壳。该机构发布的一组照片展现了该厂工人的生存现状，上图为可成科技公司的工人在食堂午休。该机构声称，可成科技公司的工"
+top : -1
+related_stocks : ""
+title : "苹果再曝“血汗工厂”：超时工作 工作环境恶劣"
+
+
+

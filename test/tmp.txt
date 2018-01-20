@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no"/>
+<meta name="format-detection" content="telephone=no,email=no,address=no" />
+<title>信达国际：中信国际电讯目标价2.40元 潜在升幅11.1%</title>
+<style type="text/css">
+a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,caption,center,cite,code,dd,del,details,dfn,div,dl,dt,
+em,embed,fieldset,figcaption,figure,footer,form,h1,h2,h3,h4,h5,h6,header,hgroup,html,i,iframe,img,ins,kbd,label,legend,li,mark,menu,nav,
+object,ol,output,p,pre,q,ruby,s,samp,section,small,span,strike,strong,sub,summary,sup,table,tbody,td,tfoot,th,thead,time,tr,tt,u,ul,var,video{ font:inherit;margin:0;padding:0;vertical-align:baseline;border:0 }
+body{ font-size:16px; line-height:1.5; color:#999; background:transparent; }
+.wrapper{ overflow:hidden;word-break:break-all;padding:10px; }
+h1,h2{ font-weight:normal; line-height:1.35; margin-bottom:.6em; }
+h3,h4,h5,h6{ line-height:1.35; margin-bottom:1em; }
+h1{ font-size:24px; }
+h2{ font-size:20px; }
+h3{ font-size:18px; }
+h4{ font-size:16px; }
+h5{ font-size:14px; }
+h6{ font-size:12px; }
+p,ul,ol,blockquote,dl,table{ margin:1.2em 0; }
+ul,ol{ margin-left:2em; }
+ul{ list-style:disc; }
+ol{ list-style:decimal; }
+li,li p{ margin:10px 0;}
+img{ max-width:100%;display:block;margin:0 auto 1em; }
+blockquote{ color:#B5B2B1; border-left:3px solid #aaa; padding:1em; }
+strong,b{font-weight:bold;}
+em,i{font-style:italic;}
+table{ width:100%;border-collapse:collapse;border-spacing:1px;margin:1em 0;font-size:.9em; }
+th,td{ padding:5px;text-align:left;border:1px solid #aaa; }
+th{ font-weight:bold;background:#5d5d5d; }
+.symbol-link{font-weight:bold;}
+header{ border-bottom:1px solid #494756; }
+.title{ margin:0 0 6px;line-height:1.3;color:#ddd; }
+.meta {color:#5e5c6d;font-size:13px;margin:0 0 .5em; }
+a{text-decoration:none; color:#2a4b87;}
+</style>
+</head>
+<body>
+<div class="wrapper">
+<header>
+<h2 class="title">
+信达国际：中信国际电讯目标价2.40元 潜在升幅11.1%
+</h2>
+<h4 class="meta">
+
+
+2018-01-19 10:57 GMT+8:00&nbsp;&nbsp;&nbsp;来源：新浪港股&nbsp;&nbsp;<a href=http://finance.sina.com.cn/stock/hkstock/hkgg/2018-01-19/doc-ifyqtwzu6500634.shtml?source=cj&dv=1>查看原网页</a>
+
+
+</h4>
+</header>
+<article>
+<html><body><p>　　<strong>因素：</strong></p><p>　　i） 集团自2013年收购澳门电讯（CTM）后，营运表现渐趋稳定，已连续3年绿得经营业务现金流净流入超过16亿元。集团正于内地发展数据中心，并与公司现有的电讯业务、云计算、数据服务有效结合，为客户提供一站式综合服务，集团上半年企业业务收入按年增长17%至12.7亿元，占总收入比例由2016年同期28.3%，提升至35.2%；</p><p>　　ii） 集团今年上市10周年，管理层近日表示有意增派末期股息，料成为股价短期催化剂；另外，由于澳门的娱乐场及政府项目分期进行，导致政府及企业客户的专业服务项目减少，但相信随着澳门博彩收入回暖及新酒店逐步落成，今年下半年及明年企业业务将好转。随着港珠澳大桥年内正式通车，加上预期大湾区发展规划将正式出台，料中港澳三地的互联互通增强下，将会增加市场在移动通讯服务、企业通讯服务以及基础设施方面需求；</p><p>　　iii） 现价相当于2018年预测6.6倍EV/EBITDA，较本港上市同业平均估值折让16%，另外，其6.1%的预期股息率可为股价带来支持；</p><p>　　iv） 股价近日于保历加通道现支持，加上MACD信号线“熊差”收窄，有利股价反弹，建议趁低吸纳。</p></body></html>
+</article>
+</div>
+
+
+</body>
+</html>
